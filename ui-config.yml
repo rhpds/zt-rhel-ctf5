@@ -1,0 +1,15 @@
+---
+antora:
+  name: modules
+  dir: www
+  modules:
+    - name: "01-challenge"
+      label: "Challenge"
+      solveButton: true
+    - name: "02-flag"
+      label: "Flag"
+      solveButton: true
+
+tabs:
+  - name: ">_ terminal"
+    url: /wetty
